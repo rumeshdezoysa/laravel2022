@@ -1,0 +1,16 @@
+23/02/2022
+==================
+link
+https://www.youtube.com/watch?v=RsMVy-kNi-8&list=PLyNTduYoTjqCgTFXtj6cuini_6iAWT47s&index=1
+
+github
+
+ rumeshdezoysa / laravel2022 
+
+i used  below stps***********************************************************************
+git init
+git remote add origin https://github.com/rumeshdezoysa/laravel2022.git
+git add .
+
+git commit -m "first commit"
+git push origin master
